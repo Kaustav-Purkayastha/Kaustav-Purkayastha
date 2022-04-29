@@ -12,7 +12,7 @@
 ### Glad to see you here:  ![Views](https://komarev.com/ghpvc/?username=mavericktk&color=blue)
 
 
-I'm a Student Coder 👨‍💻, doing my Bachelor's in Computer Science 🎓 from G.C. College, Silchar 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to write and create poetries 👨🏻‍💻. I'm currently into Data Structures & Algorithms as well as in Full Stack Development 🕸️.
+I'm a Student Coder 👨‍💻, doing my Bachelor's in Computer Science 🎓 from G.C. College, Silchar 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to write and create poetries ✍️. I'm currently into Data Structures & Algorithms as well as in Full Stack Development 🕸️.
 
 <img align="right" height="300" width="350" alt="" src="assets/coder.gif" />
 
