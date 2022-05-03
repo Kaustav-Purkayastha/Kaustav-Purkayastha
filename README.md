@@ -24,9 +24,9 @@ I'm a Student Coder 👨‍💻, doing my Bachelor's in Computer Science 🎓 fr
 
 ### Projects:
 
-[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Bumble-Clone-Project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats" />](https://kaustav-purkayastha.github.io/Bumble-Clone-Project/)
+[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Bumble-Clone-Project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/Bumble-Clone-Project/)
 
-<img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&layout=compact&theme=cobalt&hide_border=true" />
+[<img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&layout=compact&theme=cobalt&hide_border=true" />](https://github.com/Kaustav-Purkayastha/)
 
 ### Languages and Tools:
 
