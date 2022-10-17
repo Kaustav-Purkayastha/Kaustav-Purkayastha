@@ -2,8 +2,8 @@
 
 ## 👋 I'm [Kaustav Purkayastha!](https://github.com/Kaustav-Purkayastha/)
 
+[<img alt="kaustavpurk2@gmail.com" src="https://img.shields.io/badge/kaustavpurk2@gmail.com-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kaustavpurk2@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/kaustav-02/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kaustavpurkayastha2@gmail.com)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/imKaustav_)
 [<img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://theuntoldpoetries.wordpress.com)
 [<img src="https://img.shields.io/github/followers/Kaustav-Purkayastha?label=Follow&style=social" />](https://github.com/Kaustav-Purkayastha/?tab=follow)
@@ -19,12 +19,14 @@ I'm a Student Coder 👨‍💻, doing my Bachelor's in Computer Science 🎓 fr
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with C++, JAVA, Python, JavaScript, etc.
+- 🌎 &nbsp; Learning Full Stack Development. Interested in Web3.
 - 💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/Kaustav-Purkayastha).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/kaustav-02/). I am happy to help.
 
 ### Projects:
 
 [<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Bumble-Clone-Project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/Bumble-Clone-Project/)
+[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Library-Management-System&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/Library-Management-System/)
 
 [<img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&layout=compact&theme=cobalt&hide_border=true" />](https://github.com/Kaustav-Purkayastha/)
 
