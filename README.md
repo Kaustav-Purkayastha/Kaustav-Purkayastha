@@ -4,7 +4,7 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/kaustav-02/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kaustavpurkayastha2@gmail.com)
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/_I_AM_KAUSTAV_)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/imKaustav_)
 [<img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" />](https://theuntoldpoetries.wordpress.com)
 [<img src="https://img.shields.io/github/followers/Kaustav-Purkayastha?label=Follow&style=social" />](https://github.com/Kaustav-Purkayastha/?tab=follow)
 
