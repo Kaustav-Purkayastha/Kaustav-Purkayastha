@@ -24,7 +24,7 @@
 </p>
 
           
-<details> <summary>
+<details open> <summary>
 <h3> <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> MY JOURNEY SO FAR </h3>
   </summary>
 
@@ -38,7 +38,7 @@
 
 - 👨‍🎓 Developed a keen interest in the field and decided to pursue a **degree in Computer Science**.
 
-- 🙇‍ Broadened my knowledge in programming languages such as **C, C++, Java, JavaScript, MySQL, among others**. 
+- 🙇‍ Broadened my knowledge in programming languages such as **C, C++, Java, JavaScript, MySQL, etc.** 
 
 - 🌐 Presently expanding my expertise in **Web Development** and actively engaged in various innovative projects.
 
