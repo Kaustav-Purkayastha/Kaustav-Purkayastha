@@ -56,7 +56,7 @@
 <h3> <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS </h3>
 </summary>
   <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaustav-Purkayastha&show_icons=true&count_private=true&theme=aura&hide_border=true" /></a>&ensp;
-  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img height=195 alt="Kaustav Purkayastha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=8&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
+  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=11&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
 
 [![Kaustav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kaustav-Purkayastha&theme=modern-lilac&bg_color=15141B&color=a177fe)](https://github.com/Kaustav-Purkayastha?tab=repositories)
 
