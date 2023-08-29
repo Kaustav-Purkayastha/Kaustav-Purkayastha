@@ -58,14 +58,13 @@
   <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaustav-Purkayastha&show_icons=true&count_private=true&theme=aura&hide_border=true" /></a>&ensp;
   <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=11&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
 
-[![Kaustav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kaustav-Purkayastha&theme=modern-lilac&bg_color=15141B&color=a177fe)](https://github.com/Kaustav-Purkayastha?tab=repositories)
-
 </details>
 
 <details open> <summary>
 <h3> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS </h3>
 </summary>
 
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=GCCxCSD&theme=aura&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/GCCxCSD/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Bumble-Clone-Project&theme=aura&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/Bumble-Clone-Project/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=Library-Management-System&theme=aura&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/Kaustav-Purkayastha/Library-Management-System/)&ensp;
 
