@@ -55,7 +55,7 @@
 
 - 🚀 Committed to continuous self-improvement and staying ahead of the curve with the latest in **cloud-native data and AI tools**.
 
-- 📭 Feel free to reach out at **<a href="mailto:kaustavpurk2@gmail.com">kaustavpurk2@gmail.com</a>** or check out my **<a href="https://kaustavpurkayastha.hashnode.dev/">portfolio</a>**.
+- 📭 Feel free to reach out at **<a href="mailto:kaustavpurk2@gmail.com">kaustavpurk2@gmail.com</a>** or check out my **<a href="https://Kaustav-Purkayastha.github.io/portfolio/">portfolio</a>**.
 
 </details>
 
@@ -73,6 +73,7 @@
 <h3> <a href="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/></a> PROJECTS </h3>
 </summary>
 
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=healthpipe_ai&theme=aura&hide_border=true&show_icons=true" alt="HealthPipe AI" />](https://github.com/Kaustav-Purkayastha/healthpipe_ai/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=TestNucleus&theme=aura&hide_border=true&show_icons=true" alt="TestNucleus" />](https://github.com/Kaustav-Purkayastha/TestNucleus/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=insurance_risk_predictor&theme=aura&hide_border=true&show_icons=true" alt="Insurance Risk Predictor" />](https://github.com/Kaustav-Purkayastha/insurance_risk_predictor/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gcc-x-csd&repo=GCCxCSD&theme=aura&hide_border=true&show_icons=true" alt="GCCxCSD" />](https://github.com/gcc-x-csd/GCCxCSD/)&ensp;
@@ -96,13 +97,13 @@
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" title="Apache Spark / PySpark"/>&ensp;<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" title="Hadoop"/>&ensp;<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" title="Databricks"/>&ensp;<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" title="Apache Kafka"/>
 
 - ### Databases:
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle"/>&ensp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>&ensp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server"/>&ensp;<img src="https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon Aurora"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle"/>&ensp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>&ensp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server"/>&ensp;<img src="https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon Aurora"/>&ensp;<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" title="DuckDB"/>
 
 - ### Orchestration & DevOps:
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>&ensp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>&ensp;<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow"/>&ensp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins"/>&ensp;<img src="https://img.shields.io/badge/Stonebranch-0057A8?style=for-the-badge&logoColor=white" title="Stonebranch"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>&ensp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>&ensp;<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow"/>&ensp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins"/>&ensp;<img src="https://img.shields.io/badge/Stonebranch-0057A8?style=for-the-badge&logoColor=white" title="Stonebranch"/>&ensp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" title="GitHub Actions"/>
 
 - ### Analytics & AI:
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/>&ensp;<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon Bedrock"/>&ensp;<img src="https://img.shields.io/badge/Anthropic_Claude-D4A574?style=for-the-badge&logoColor=white" title="Anthropic Claude"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/>&ensp;<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon Bedrock"/>&ensp;<img src="https://img.shields.io/badge/Anthropic_Claude-D4A574?style=for-the-badge&logoColor=white" title="Anthropic Claude"/>&ensp;<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" title="Ollama"/>
 
 - ### Tools:
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="VS Code"/>&ensp;<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" title="PyCharm"/>&ensp;<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Excel"/>
@@ -124,7 +125,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://Kaustav-Purkayastha.github.io/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-a177fe?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7b52c9" height="36"/>
   </a>
 </p>
