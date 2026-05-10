@@ -24,7 +24,7 @@
 
           
 <details open> <summary>
-<h3> <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> MY JOURNEY SO FAR </h3>
+<b> <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> MY JOURNEY SO FAR </b>
   </summary>
 
 - 🖥 Got my first computer at the tender **age of 10**.
@@ -62,7 +62,7 @@
 
 
 <details open> <summary>
-<h3> <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS </h3>
+<b> <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS </b>
 </summary>
   <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaustav-Purkayastha&show_icons=true&count_private=true&theme=aura&hide_border=true" /></a>&ensp;
   <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=11&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
@@ -70,7 +70,7 @@
 </details>
 
 <details open> <summary>
-<h3> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS </h3>
+<b> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS </b>
 </summary>
 
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=TestNucleus&theme=aura&hide_border=true&show_icons=true" alt="TestNucleus" />](https://github.com/Kaustav-Purkayastha/TestNucleus/)&ensp;
@@ -82,7 +82,7 @@
 
 
 <details> <summary>
-  <h3> <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/>  LANGUAGES & TOOLS </h3>
+  <b> <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/>  LANGUAGES & TOOLS </b>
 </summary>
 <p align="left">
 
@@ -113,7 +113,7 @@
   
 
 <details open> <summary>
-  <h3> <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH! </h3>
+  <b> <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH! </b>
   </summary>
   
 <p align="left">
