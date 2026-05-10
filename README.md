@@ -74,7 +74,7 @@
 </summary>
 
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=TestNucleus&theme=aura&hide_border=true&show_icons=true" alt="TestNucleus" />](https://github.com/Kaustav-Purkayastha/TestNucleus/)&ensp;
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=insurance_claim_analysis&theme=aura&hide_border=true&show_icons=true" alt="Insurance Risk Predictor" />](https://github.com/Kaustav-Purkayastha/insurance_claim_analysis/)&ensp;
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaustav-Purkayastha&repo=insurance_risk_predictor&theme=aura&hide_border=true&show_icons=true" alt="Insurance Risk Predictor" />](https://github.com/Kaustav-Purkayastha/insurance_risk_predictor/)&ensp;
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gcc-x-csd&repo=GCCxCSD&theme=aura&hide_border=true&show_icons=true" alt="GCCxCSD" />](https://github.com/gcc-x-csd/GCCxCSD/)&ensp;
 
   
