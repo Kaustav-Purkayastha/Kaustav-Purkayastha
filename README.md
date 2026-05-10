@@ -119,7 +119,7 @@
 <p align="left">
 <a href="mailto:kaustavpurk2@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" title="Email"/></a>&ensp;<a href="https://www.facebook.com/kaustav.purkayastha.02/"><img src="https://img.icons8.com/color/48/000000/facebook.png" title="Facebook"/></a>&ensp;<a href="https://www.instagram.com/_.kaustav._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a>&ensp;<a href="https://www.linkedin.com/in/kaustav-02/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn"/></a>
 <br/>
-<a href="https://github.com/Kaustav-Purkayastha"><img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub"/></a>&ensp;<a href="https://youtube.com/@kaustavpurkayastha"><img src="https://img.icons8.com/fluent/48/000000/youtube.png" title="YouTube"/></a>&ensp;<a href="https://hashnode.com/@imKaustav"><img width="48" height="48" src="https://user-images.githubusercontent.com/91522490/224074067-b5193f14-d9ef-4c37-ba97-5c34b2381c96.png" title="Hashnode"/></a>
+<a href="https://github.com/Kaustav-Purkayastha"><img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub"/></a>&ensp;<a href="https://youtube.com/@kaustavpurkayastha"><img src="https://img.icons8.com/fluent/48/000000/youtube.png" title="YouTube"/></a>&ensp;<a href="https://hashnode.com/@imKaustav"><img width="48" src="https://user-images.githubusercontent.com/91522490/224074067-b5193f14-d9ef-4c37-ba97-5c34b2381c96.png" title="Hashnode"/></a>
 
 </p>
 
