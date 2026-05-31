@@ -64,8 +64,8 @@
 <details open> <summary>
 <h3> <a href="#"><img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/></a> MY GITHUB STATS </h3>
 </summary>
-  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaustav-Purkayastha&show_icons=true&count_private=true&theme=aura&hide_border=true" /></a>&ensp;
-  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=11&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
+  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kaustav-Purkayastha&show_icons=true&count_private=true&theme=aura&hide_border=true" /></a>&ensp;
+  <a href="https://github.com/Kaustav-Purkayastha?tab=repositories"><img alt="Kaustav Purkayastha' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Purkayastha&langs_count=11&count_private=true&layout=compact&theme=aura&hide_border=true" /></a>&ensp;
 
 </details>
 
