@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://Kaustav-Purkayastha.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-a177fe?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7b52c9" height="36"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-a177fe?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7b52c9"/>
   </a>
 </p>
 
